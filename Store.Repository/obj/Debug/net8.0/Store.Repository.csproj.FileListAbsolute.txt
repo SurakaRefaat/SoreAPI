@@ -1,0 +1,15 @@
+D:\course\API PRoject\Store.Data\Store.Repository\bin\Debug\net8.0\Store.Repository.deps.json
+D:\course\API PRoject\Store.Data\Store.Repository\bin\Debug\net8.0\Store.Repository.dll
+D:\course\API PRoject\Store.Data\Store.Repository\bin\Debug\net8.0\Store.Repository.pdb
+D:\course\API PRoject\Store.Data\Store.Repository\bin\Debug\net8.0\Store.Data.dll
+D:\course\API PRoject\Store.Data\Store.Repository\bin\Debug\net8.0\Store.Data.pdb
+D:\course\API PRoject\Store.Data\Store.Repository\obj\Debug\net8.0\Store.Repository.csproj.AssemblyReference.cache
+D:\course\API PRoject\Store.Data\Store.Repository\obj\Debug\net8.0\Store.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\course\API PRoject\Store.Data\Store.Repository\obj\Debug\net8.0\Store.Repository.AssemblyInfoInputs.cache
+D:\course\API PRoject\Store.Data\Store.Repository\obj\Debug\net8.0\Store.Repository.AssemblyInfo.cs
+D:\course\API PRoject\Store.Data\Store.Repository\obj\Debug\net8.0\Store.Repository.csproj.CoreCompileInputs.cache
+D:\course\API PRoject\Store.Data\Store.Repository\obj\Debug\net8.0\Store.Re.0C98E3FA.Up2Date
+D:\course\API PRoject\Store.Data\Store.Repository\obj\Debug\net8.0\Store.Repository.dll
+D:\course\API PRoject\Store.Data\Store.Repository\obj\Debug\net8.0\refint\Store.Repository.dll
+D:\course\API PRoject\Store.Data\Store.Repository\obj\Debug\net8.0\Store.Repository.pdb
+D:\course\API PRoject\Store.Data\Store.Repository\obj\Debug\net8.0\ref\Store.Repository.dll

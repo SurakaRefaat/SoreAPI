@@ -1,0 +1,12 @@
+D:\course\API PRoject\Store.Data\Store.Data\bin\Debug\net8.0\Store.Data.deps.json
+D:\course\API PRoject\Store.Data\Store.Data\bin\Debug\net8.0\Store.Data.dll
+D:\course\API PRoject\Store.Data\Store.Data\bin\Debug\net8.0\Store.Data.pdb
+D:\course\API PRoject\Store.Data\Store.Data\obj\Debug\net8.0\Store.Data.csproj.AssemblyReference.cache
+D:\course\API PRoject\Store.Data\Store.Data\obj\Debug\net8.0\Store.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\course\API PRoject\Store.Data\Store.Data\obj\Debug\net8.0\Store.Data.AssemblyInfoInputs.cache
+D:\course\API PRoject\Store.Data\Store.Data\obj\Debug\net8.0\Store.Data.AssemblyInfo.cs
+D:\course\API PRoject\Store.Data\Store.Data\obj\Debug\net8.0\Store.Data.csproj.CoreCompileInputs.cache
+D:\course\API PRoject\Store.Data\Store.Data\obj\Debug\net8.0\Store.Data.dll
+D:\course\API PRoject\Store.Data\Store.Data\obj\Debug\net8.0\refint\Store.Data.dll
+D:\course\API PRoject\Store.Data\Store.Data\obj\Debug\net8.0\Store.Data.pdb
+D:\course\API PRoject\Store.Data\Store.Data\obj\Debug\net8.0\ref\Store.Data.dll
